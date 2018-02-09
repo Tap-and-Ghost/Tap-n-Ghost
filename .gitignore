@@ -104,7 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # MY SETTINGS
-vendor/
-*.db
-log/
 .vscode/
